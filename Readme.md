@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ImageDataModel.cs](./CS/ImageFillStyleHeightMap/Model/ImageDataModel.cs) (VB: [ImageDataModel.vb](./VB/ImageFillStyleHeightMap/Model/ImageDataModel.vb))
+* **[MainWindow.xaml](./CS/ImageFillStyleHeightMap/View/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ImageFillStyleHeightMap/View/MainWindow.xaml))**
+* [HeightMapViewModel.cs](./CS/ImageFillStyleHeightMap/ViewModel/HeightMapViewModel.cs) (VB: [HeightMapViewModel.vb](./VB/ImageFillStyleHeightMap/ViewModel/HeightMapViewModel.vb))
+<!-- default file list end -->
 # How to: Bind manually created series to arguments and value arrays
 
 
