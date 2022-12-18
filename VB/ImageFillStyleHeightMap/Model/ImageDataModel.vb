@@ -1,10 +1,15 @@
-﻿Imports System.Windows.Media
+Imports System.Windows.Media
 
 Namespace ImageFillStyleHeightMap
+
     Public Class ImageData
-        Public Property XArguments() As DoubleCollection
-        Public Property YArguments() As DoubleCollection
-        Public Property Values() As DoubleCollection
+
+        Public Property XArguments As DoubleCollection
+
+        Public Property YArguments As DoubleCollection
+
+        Public Property Values As DoubleCollection
+
         Public Sub New(ByVal xArguments As DoubleCollection, ByVal yArguments As DoubleCollection, ByVal values As DoubleCollection)
             Me.XArguments = xArguments
             Me.YArguments = yArguments
